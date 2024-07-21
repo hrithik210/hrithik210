@@ -56,7 +56,7 @@ A Full-Stack developer from India
 <br/>  
 
 
-## Connect with me  
+## Socials  
 <div align="center">
 <a href="https://github.com/hrithik210" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -69,7 +69,12 @@ A Full-Stack developer from India
 </a>
 <a href="https://instagram.com/protein__sheikh" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
+</a>
+
+<a href="https://leetcode.com/u/ramanand_nayak/" target="_blank">
+<img src=https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=leetcode style="margin-bottom: 5px;" />
+</a>
+
 </div>  
   
 
@@ -81,4 +86,3 @@ A Full-Stack developer from India
 
 <br/>  
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
