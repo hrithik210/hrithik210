@@ -107,7 +107,7 @@ A Full-Stack developer from India
 <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
 </a>
 
-<a href="https://leetcode.com/">
+<a href="https://leetcode.com/u/ramanand_nayak/">
   <img src="https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
 </a>
 </div>  
