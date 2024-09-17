@@ -82,6 +82,14 @@ A Full-Stack developer from India
   <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
   <br>Postman
 </td>
+  <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
+      <br>Prisma
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
+      <br>Cloudflare
+    </td>
   </tr>
 </table>
 
