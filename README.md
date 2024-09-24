@@ -17,6 +17,10 @@ A Full-Stack developer from India
  <table>
   <tr>
     <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
      <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
       <br>TypeScript
     </td>
@@ -53,6 +57,10 @@ A Full-Stack developer from India
     <td align="center" width="96">
         <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
       <br>Express
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
     </td>
   </tr>
   <tr>
