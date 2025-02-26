@@ -108,9 +108,6 @@ A Full-Stack developer from India
 ## Socials  
 <div align="center">
   
-<a href="https://www.instagram.com/protein__sheikh_">
-<img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-  
 <a href="https://www.twitter.com/hrithik_018">
 <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
 </a>
