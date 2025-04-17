@@ -3,8 +3,8 @@
 </div>  
   
 
-### <div align="center">Hi 👋, I'm Ramanand
-A Full-Stack developer from India
+### <div align="center">Bonjour 👋, I'm Hrithik
+A Goated Programmer.
 </div>  
   
 
