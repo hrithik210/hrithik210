@@ -103,6 +103,12 @@ A Goated Programmer.
       <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
       <br>Cloudflare
     </td>
+    <!-- Redis -->
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+
   </tr>
 </table>
 
