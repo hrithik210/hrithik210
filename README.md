@@ -1,138 +1,76 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-  
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
+</div>
 
-### <div align="center">Bonjour 👋, I'm Hrithik
-A Goated Programmer.
-</div>  
-  
+<h1 align="center">Bonjour, World 👋<br>I'm Hrithik — Code Alchemist, Digital Duelist</h1>
 
-<br/>  
+<p align="center">
+  <i>Building tools, weaving logic, and cracking the Matrix one line at a time.</i><br/>
+  <b>Tech + Grit = Destiny</b>
+</p>
 
+---
 
-## Tech-Stack  
-> Tools and technologies that I have worked with and am interested in
+## ⚔️ Stack Arsenal
+> Technologies I wield like a blade in battle — forged in fire, tested in prod.
 
- <table>
+<table>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-     <img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <a href="#macropower-tech">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-      </a>
-      <br>Python
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=javascript" alt="icon" width="65" height="65" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <!-- Golang -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
-      <br>Golang
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="TailwindCSS" />
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="NodeJS" />
-      <br>NodeJS
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
-      <br>Express
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
-      <br>Docker
-    </td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="48"><br>Next.js</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="48"><br>TypeScript</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/python-icon.svg" width="65"><br>Python</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=javascript" width="48"><br>JavaScript</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=go" width="48"><br>Golang</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=react" width="48"><br>React</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="48"><br>TailwindCSS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="48"><br>NodeJS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="48"><br>Express</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="48"><br>Docker</td>
   </tr>
   <tr>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
-      <br>AWS
-    </td>
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-  <br>Git
-</td>
-
-<td align="center" width="96">
-  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="RESTful API" />
-  <br>Rest API
-</td>
-
-<td align="center" width="96">
-  <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
-  <br>Postman
-</td>
-  <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=prisma" width="48" height="48" alt="Prisma" />
-      <br>Prisma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=cloudflare" width="48" height="48" alt="Cloudflare" />
-      <br>Cloudflare
-    </td>
-    <!-- Redis -->
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="48"><br>MongoDB</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgresql" width="48"><br>PostgreSQL</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="48"><br>Redis</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=aws" width="48"><br>AWS</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=git" width="48"><br>Git</td>
+    <td align="center"><img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48"><br>REST APIs</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postman" width="48"><br>Postman</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=prisma" width="48"><br>Prisma</td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=cloudflare" width="48"><br>Cloudflare</td>
   </tr>
 </table>
 
+---
 
-<br/>  
+## 🧠 What I Believe
+> “Write code like you’re etching your name into history.”
 
+- 🧩 *Simple* is greater than *smart*  
+- 🛠️ Don’t just build apps—**forge experiences**
+- 🧬 Backend, frontend, infra—**I eat full stacks for breakfast**
+- 🧙 Automation > Repetition  
+- 👑 Open source is the real clout
 
-## Socials  
+---
+
+## 🌐 Connect with Me — Let’s Cook
+<p align="center">
+  <a href="https://www.twitter.com/hrithik_018">
+    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/ramanand-nayak-b2a622259">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/u/ramanand_nayak/">
+    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+</p>
+
+---
+
 <div align="center">
-  
-<a href="https://www.twitter.com/hrithik_018">
-<img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white">
-</a>
-
-<a href= "https://linkedin.com/in/ramanand-nayak-b2a622259" >
-<img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>
-
-<a href="https://leetcode.com/u/ramanand_nayak/">
-  <img src="https://img.shields.io/badge/leetcode-%23000000.svg?&style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-</div>  
-<br/>  
-
-
-<br/>  
-
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
+  <br><br>
+  <b>“Code hard, ship faster, stay humble.”</b><br>
+  <i>— Hrithik Nayak | Ai Agents × Web3</i>
+</div>
