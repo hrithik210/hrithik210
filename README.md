@@ -1,20 +1,15 @@
 <div align="center">
-  <div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400px" />
-</div>
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350px" />
 </div>
 
-<h1 align="center">👋 Bonjour, I'm Hrithik</</h1>
+<h2 align="center">👋 Bonjour, I'm Hrithik</h2>
 
 <p align="center">
-  <i> Backend, frontend, infra—**I eat full stacks for breakfast.</i><br/>
-  <b></b>
+  <b><i><span style="font-size: 18px; letter-spacing: 1px;">Backend. Frontend. AI. Blockchain. I can do it all.</span></i></b>
 </p>
 
----
 
-## ⚔️ Stack Arsenal
-> Technologies I wield like a blade in battle — forged in fire, tested in prod.
+## Tech Stack
 
 <table>
   <tr>
@@ -45,19 +40,21 @@
 ## 🌐 Connect with Me — Let’s Cook
 <p align="center">
   <a href="https://www.twitter.com/hrithik_018">
-    <img src="https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" />
-  </a>
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>&nbsp;&nbsp;
   <a href="https://linkedin.com/in/ramanand-nayak-b2a622259">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ramanand_nayak/">
-    <img src="https://img.shields.io/badge/LeetCode-%23000000.svg?style=for-the-badge&logo=leetcode&logoColor=white" />
+    <img src="https://img.shields.io/badge/LeetCode-EF9F1E?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
+
+
 
 ---
 
 <div align="center">
-  <b>“Code hard, ship faster, stay humble.”</b><br>
-  <i>— Hrithik Nayak | Ai Agents × Web3</i>
+  <b>“Jack of all trades, master of none — but still better than master of one.”</b><br>
+  
 </div>
