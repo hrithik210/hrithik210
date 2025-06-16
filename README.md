@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://rishavanand.github.io/static/images/greetings.gif" style="width: 100%" />
+  <div align="center">
+  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400px" />
+</div>
 </div>
 
-<h1 align="center">Bonjour, World 👋<br>I'm Hrithik — Code Alchemist, Digital Duelist</h1>
+<h1 align="center">👋 Bonjour, I'm Hrithik</</h1>
 
 <p align="center">
-  <i>Building tools, weaving logic, and cracking the Matrix one line at a time.</i><br/>
-  <b>Tech + Grit = Destiny</b>
+  <i> Backend, frontend, infra—**I eat full stacks for breakfast.</i><br/>
+  <b></b>
 </p>
 
 ---
@@ -40,19 +42,6 @@
   </tr>
 </table>
 
----
-
-## 🧠 What I Believe
-> “Write code like you’re etching your name into history.”
-
-- 🧩 *Simple* is greater than *smart*  
-- 🛠️ Don’t just build apps—**forge experiences**
-- 🧬 Backend, frontend, infra—**I eat full stacks for breakfast**
-- 🧙 Automation > Repetition  
-- 👑 Open source is the real clout
-
----
-
 ## 🌐 Connect with Me — Let’s Cook
 <p align="center">
   <a href="https://www.twitter.com/hrithik_018">
@@ -69,8 +58,6 @@
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="400"/>
-  <br><br>
   <b>“Code hard, ship faster, stay humble.”</b><br>
   <i>— Hrithik Nayak | Ai Agents × Web3</i>
 </div>
