@@ -42,7 +42,7 @@
   <a href="https://www.twitter.com/hrithik_018">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/ramanand-nayak-b2a622259">
+  <a href="https://www.linkedin.com/in/hrithik-nayak-b2a622259/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href="https://leetcode.com/u/ramanand_nayak/">
