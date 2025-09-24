@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="350px" />
+  <img src="/banner.png" />
 </div>
 
 <h2 align="center">👋 Bonjour, I'm Hrithik</h2>
