@@ -37,7 +37,7 @@
   </tr>
 </table>
 
-## 🌐 Connect with Me — Let’s Cook
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.twitter.com/hrithik_018">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
